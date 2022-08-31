@@ -1,7 +1,7 @@
 # Welcome to Sage-Code 👋
 
 * [home page](http://sagecode.net)
-* [know how](contribute.md)
+* [know how](../readme.md)
 ## Hi there 
 
 <!--
