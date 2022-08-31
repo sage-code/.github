@@ -1,4 +1,8 @@
-## Hi there 👋
+# Welcome to Sage-Code 👋
+
+* [home page](http://sagecode.net)
+* [know how](contribute.md)
+## Hi there 
 
 <!--
 
