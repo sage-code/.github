@@ -11,3 +11,6 @@ Only instructors can maintain this repository, please read:
 * [contribution](profile/contribute.md)
 * [discution](https://github.com/sage-code/bee/discussions)
 
+---
+Copyright (c) Sage-Code 2022
+
