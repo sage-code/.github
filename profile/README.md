@@ -1,8 +1,9 @@
-# Welcome to Sage-Code 👋
+## Welcome to Sage-Code 👋
+
+We create open source tutorials and disruptive projects to learn programming.
 
 * [home page](http://sagecode.net)
-* [know how](../readme.md)
-## Hi there 
+* [contribution](contribute.md)
 
 <!--
 
