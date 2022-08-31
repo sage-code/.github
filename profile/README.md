@@ -3,7 +3,7 @@
 We create open source tutorials and disruptive projects to learn programming.
 
 * [home page](http://sagecode.net)
-* [contribution](contribute.md)
+* [contribution](https://github.com/sage-code/.github/tree/main/profile/contribute.md)
 
 <!--
 
