@@ -1,7 +1,3 @@
-# Welcome to Sage-Code
-
-We do open source tutorials and intresting projects to learn programming. 
-
 # Contribution
 
 You can contribute to our content if you are part of our team. You need to join our discord and accept a role. If you are developer you can start contributing. If you are have just started learning you can become a Sage-Code student.
@@ -12,4 +8,3 @@ Sage-Code instructors are freelancers or professional developers with experience
 # References
 
 * [discord](https://discord.gg/fAEHfw8T)
-* [home page](http://sagecode.net)
