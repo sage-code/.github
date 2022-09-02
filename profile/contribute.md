@@ -2,7 +2,7 @@
 
 You can contribute to our content if you are part of our team or not. You can visit our website and if you find any error you can signal the error in our discution board or submit an issue. You can fork the specific repository, modify and create a pool request.
 
-## Guest
+## Guests
 
 As guest you can visit our homepage and start learning. You do not have to register or login. Any visitor on Sage-Code can decide to become a student and follow the tutorials. If you like our content you can join Discord for user support. 
 
