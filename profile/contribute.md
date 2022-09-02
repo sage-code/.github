@@ -14,12 +14,12 @@ Sage-Code instructors are freelancers or professional developers with experience
 
 # Know-How
 
-Our website is distribute in many repositories. The main repository is the /root repository. When you start your contribution you must fork or clone: /immages and /root repositories into a working folder: ~/sagecode. You must copy all files from /root into the working folder. We do not wor with repo in repo so we don not maintain the copy. This is just for testing.
+Our website is distribute in many repositories. The main repository is the /root repository. When you start your contribution you must fork or clone: /immages and /root repositories into a working folder: ~/sagecode. You must copy all files from /root into the working folder. We do not work with a repo in a repo, so we don not maintain the copy. This is just for testing. Instead we maintain the /root repository and copy again to working folder for further testing. 
 
 
 # References
 
-You find more in Sage-Code [discutions](https://github.com/orgs/sage-code/discussions). Every repository has a discution board and a readme files that contains info about that particular project. Follow this info and add info when you have it.
+You can ask questions on Sage-Code general [discutions](https://github.com/orgs/sage-code/discussions) board. Every repository has also a discution board and a readme file that contains info about that particular project. Follow this info and update new info when you have it.
 
 For private discutions and more exclusive learnig resources use these links:
 
