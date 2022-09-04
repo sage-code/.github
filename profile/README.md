@@ -1,17 +1,6 @@
 ## Welcome to Sage-Code 👋
 
-We create open source tutorials and disruptive projects to learn programming.
+Entry level open source tutorials and projects for learning programming.
 
 * [home page](http://sagecode.net)
-* [contribution](https://github.com/sage-code/.github/tree/main/profile/contribute.md)
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+* [contribute](https://github.com/sage-code/.github/tree/main/profile/contribute.md)
