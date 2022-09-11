@@ -24,17 +24,16 @@ Sage-Code instructors are professional developers with experience that you can t
 
 Our website is distribute in many repositories. The main repository is the /root repository. When you start your contribution you must fork or clone: /root and /immages repositories into the working folder: ~/sagecode. You must copy all files from /root into the working folder. This is just for testing. We maintain the /root repository and copy again to working folder for further testing. 
 
-# Project clone
+## Project clone
 Usually a developer work on a single tutorial. Therefore you can clone the specific tutorial in to working folder, for example ~/sagecode/java. If you have installed all immages properly, you can open index.html in local browser without installing any special software. We use relative links to find the immages and the style files that should be located in ~/sagecode (work folder).
 
-# References
-
+## Get started
 You can ask questions on Sage-Code general [discutions](https://github.com/orgs/sage-code/discussions) board. Every repository has also a discution board and a readme file that contains info about that particular project. Follow this info and update new info when you have it.
 
-Get started by using these links:
+Resources:
 
-* [discord invitation](https://discord.gg/fAEHfw8T)
-* [home page](https://sagecode.net)
+* [sage-code discord](https://discord.gg/fAEHfw8T)
+* [sage-code homepage](https://sagecode.net)
 
 ----
 Copiright (c) Sage-Code 2022
