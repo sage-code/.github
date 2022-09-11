@@ -30,7 +30,7 @@ Usually a developer work on a single tutorial. Therefore you can clone the speci
 ## Get started
 You can ask questions on Sage-Code general [discutions](https://github.com/orgs/sage-code/discussions) board. Every repository has also a discution board and a readme file that contains info about that particular project. Follow this info and update new info when you have it.
 
-Resources:
+**Resources:**
 
 * [sage-code discord](https://discord.gg/fAEHfw8T)
 * [sage-code homepage](https://sagecode.net)
