@@ -11,7 +11,7 @@ This repository is hosting the general discution board for Sage-Code and contrib
 
 * [discution](https://github.com/sage-code/bee/discussions)
 * [contribution](profile/contribute.md)
-* [activity reports](activity.md)
+* [reports](reports/readme.md)
 
 ---
 Copyright (c) Sage-Code 2022
