@@ -12,7 +12,7 @@ This is the global Sage-Code activity report index. Here we register new project
 **Description:** 
 
 * This file is maintained by Sage-Code admin;
-* Sage-Code instructors should create a personal activity reports;
+* Sage-Code instructors should create personal activity reports;
 
 ---
 
