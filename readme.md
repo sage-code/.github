@@ -13,7 +13,7 @@ Use these references to contribute to our activity.
 
 Below we add major events and changes in our ways of doing things.
 
-## 20-OCT-2022
+**20-OCT-2022**
 
 * Every instructor should create a yearly activity report file. 
 * We have create this main [activity report](reports/readme.md);
