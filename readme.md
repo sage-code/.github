@@ -4,14 +4,17 @@ This repository is hosting the general discution board for Sage-Code and contrib
 
 # Maintenance
 
- Every instructor should create reports and link a readme.md main report in the activity file. 
- Developers are not required to create report files. Read the references below for details.
+Below we add major modifications in our ways.
 
-# References
+## 20-OCT-2022
+
+* Every instructor should create a yearly activity report file. 
+* We have create this main [activity report](reports/readme.md);
+
+## References
 
 * [discution](https://github.com/sage-code/bee/discussions)
 * [contribution](profile/contribute.md)
-* [reports](reports/readme.md)
 
 ---
 Copyright (c) Sage-Code 2022
