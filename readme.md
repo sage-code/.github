@@ -15,7 +15,7 @@ Below we add major events and changes in our ways of doing things.
 
 **20-OCT-2022**
 
-* Every instructor should create a yearly activity report file. 
+* Every instructor should create one activity report file/year. 
 * We have create this main [activity report](reports/readme.md);
 
 
