@@ -1,11 +1,11 @@
 # .github
 
-This repository is hosting the general discution board for Sage-Code and readme.md and report files.
+This repository is hosting the general discution board for Sage-Code and contribution and activity report files. We use this repository internaly and do not host software of any kind here. Just simple MD management files. Do not fork this repository.
 
 # Maintenance
 
- Every instructor can create a reports and link his own reports in the activity file. 
- Developers can fork this report and create PR to maintain his own report. Read the references below for details.
+ Every instructor should create reports and link a readme.md main report in the activity file. 
+ Developers are not required to create report files. Read the references below for details.
 
 # References
 
