@@ -4,7 +4,7 @@ Sage-Code is a community like no other. We host open source tutorials for softwa
 
 Visit our: [homepage](http://sagecode.net)
 
-## Join US 
+## Join US 🤗
 
 After you have read the contribution document, set-up your profile and comb your hair. Visit our Discord server and join our team. We have a virtual office where we talk. If you are a software developer or software engineer, you are invited to contribute to our epic work.
 
