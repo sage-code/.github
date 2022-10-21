@@ -1,6 +1,6 @@
 # Activity Reports
 
-We have organized the reports by year:
+Every instructor is invited to create one yearly activity report.
 
 ## 2022 Reports
 
