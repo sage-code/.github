@@ -7,7 +7,7 @@ Visit our: [homepage](http://sagecode.net)
 
 ## Join US 🤗
 
-After you have read the contribution document, set-up your profile and comb your hair. Visit our Discord server and join our team. We have a virtual office where we talk. If you are a software developer or software engineer, you are invited to contribute to our epic work.
+If you are a software developer or software engineer, you are invited to contribute to our epic work. After you have read the contribution document, comb your hair and  set-up your profile. Visit our Discord server and join our team. We have a virtual office where we can talk. 
 
 * How to: [contribute](https://github.com/sage-code/.github/tree/main/profile/contribute.md)
 * Activity: [reports](https://github.com/sage-code/.github/tree/main/reports/readme.md)
