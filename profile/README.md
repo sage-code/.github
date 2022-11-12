@@ -3,8 +3,8 @@
 Sage-Code is a community like no other. We host open source tutorials for software engineering and developement. Our tutorials are ads free, and responsive. We are looking for volunteers. If you study using our content and contribute then will endorse you.
 
 * [Sage-Code Home](http://sagecode.net)
-* [Activity Reports](https://github.com/sage-code/.github/tree/main/reports/readme.md)
 * [How to Contribute](https://github.com/sage-code/.github/tree/main/profile/contribute.md)
+* [Activity Reports](https://github.com/sage-code/.github/tree/main/reports/readme.md)
 
 ## Sponsors ❤️
 
