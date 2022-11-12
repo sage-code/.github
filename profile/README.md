@@ -8,7 +8,7 @@ Sage-Code is a community like no other. We host open source tutorials for softwa
 
 ## Sponsors ❤️
 
-You can sponsor a particular course or project. We offer special services and perks for our sponsors on Discord and we grant higer priority to issues and projects created by our sponsors. If you offer sponsorsheep you will be listed automaticly on GitHub for specific projects and below. Our community thank you! 🙏🏼 
+We grant higer priority to issues and projects created by our sponsors. You can use sponsor button on [root](https://github.com/sage-code/root) or any other project. Sponsors are listed official on GitHub for specific projects. Below we list manually our current sponsors. We thank you! 🙏🏼 
 
 * [@sage-code/mlmoise](https://github.com/mlmoise)
 
