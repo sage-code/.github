@@ -4,7 +4,7 @@ Every instructor is invited to create one yearly activity report.
 
 ## 2022 Reports
 
-* @elucian 2022 activity report: [readme.md](./elucian/2022.MD)
+* @sage-code/elucian 2022 activity report: [readme.md](./elucian/2022.MD)
 
 ---
 
