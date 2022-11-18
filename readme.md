@@ -1,12 +1,12 @@
 # .github
 
-This repository is hosting the general discution board for Sage-Code, contribution and maintenance news. We use this repository internaly and do not host software of any kind here. This is not a project. Just simple MD management files. Do not fork this repository.
+This repository is hosting the general discussion board for Sage-Code, contribution and maintenance news. We use this repository internaly and do not host software of any kind here. This is not a project. Just simple MD management files. Do not fork this repository.
 
 # References
 
 Use these references to contribute to our activity.
 
-* [discution](https://github.com/sage-code/bee/discussions)
+* [discussions](https://github.com/sage-code/bee/discussions)
 * [contribution](profile/contribute.md)
 
 # Activity
