@@ -1,6 +1,6 @@
 # Contribution
 
-You can contribute to our content if you are part of our team or not, but the level of contribution is much higher for team members. Anybody can fork our repository but we do not accept pull requests from random visitors that are not part of our team.
+You can contribute to our content if you are part of our team or not, but the level of contribution is much higher for team members. Anybody can fork our repository but we do not accept pull requests from random visitors that are not part of our team. Your contribution level is depending on your role.
 
 ## Guests
 
@@ -18,7 +18,7 @@ As a student, you can have access to extra resources, not available for random g
 To become a developer on Sage-Code you must be truly active on Discord. Post some info about your goals and skills on our #team channel and read the rules. An instructor will send you DM for an interview and will assign you a role. Developers have direct access to all our projects and can work in developer branches.
 
 ## Instructors
-Sage-Code instructors are professional developers with experience that you can trust. Instructors are moderators and code maintainers. As an instructor you can accept PR from students and you can merge code into main branch. To become an instructor you need to pass several exams and prove your skills.
+Sage-Code instructors are professional developers with experience that we can trust. Instructors are moderators and code maintainers. As an instructor you can accept PR from students and you can merge code into main branch. To become an instructor you need to pass several exams and prove your skills.
 
 # Work environment
 
