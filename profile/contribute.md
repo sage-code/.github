@@ -47,10 +47,10 @@ You can ask questions on Sage-Code general [discutions](https://github.com/orgs/
 
 1. Visit: [Sage-Code Laboratory](https://sagecode.net)
 2. Join us: [Sage-Code Discord](https://discord.gg/fAEHfw8T)
-3. Clone: [Images repo]
-4. Clone: [Root repo]
+3. Clone: [Images repo](https://github.com/sage-code/images)
+4. Clone: [Root repo](https://github.com/sage-code/root)
 
-After these steps you are ready to contribute. Publish ~/sagecode/root using ./publish.sh command. Then you can open the website locally onf-line. This is great to learn without internet connection. Also you can navigate and check your favorite programming language or project. Start contributing and commit often.
+After these steps you are ready to contribute. Publish ~/sagecode/root using ./publish.sh command. Then you can open the website locally ofline. Clone your favorite programming languages or projects. This is a great resource to learn and contribute without internet connection. Start editing then verify locally and commit later. Please commit every day at least once if you modify anything. From time to time, update your clone especially before starting to edit to avoid possible future conflicts.
 
 Learn and prosper 🖖🏼
 
