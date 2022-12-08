@@ -1,6 +1,7 @@
 # Activity Reports
 
-Every instructor is invited to create one yearly activity report.
+* Every instructor is invited to create one yearly activity report;
+* Developers can optionally create an activity report and link it here;
 
 ## 2022 Reports
 
