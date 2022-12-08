@@ -42,10 +42,16 @@ After you make any modification in ~/sagecode/root folder, you need to run publi
 
 You can ask questions on Sage-Code general [discutions](https://github.com/orgs/sage-code/discussions) board. Every repository has also a discution board and a read.me file that contains info about that particular project. Follow this info and update new info when you have it.
 
-**Resources:**
+**Follow up:**
 
-* [sage-code discord](https://discord.gg/fAEHfw8T)
-* [sage-code homepage](https://sagecode.net)
+1. Visit: [Sage-Code Laboratory](https://sagecode.net)
+2. Join us: [Sage-Code Discord](https://discord.gg/fAEHfw8T)
+3. Clone: [Images repo]
+4. Clone: [Root repo]
+
+After these steps you are ready to contribute. Publish ~/sagecode/root using ./publish.sh command. Then you can open the website locally onf-line. This is great to learn without internet connection. Also you can navigate and check your favorite programming language or project. Start contributing and commit often.
+
+Learn and prosper 🖖🏼
 
 ----
 Copiright (c) Sage-Code 2022
