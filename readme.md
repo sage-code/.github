@@ -9,6 +9,13 @@ Use these references to contribute to our activity.
 * [discussions](https://github.com/sage-code/bee/discussions)
 * [contribution](profile/contribute.md)
 
+# Forking
+
+* In general Sage-Code related work and reporting do not require forking;
+* You can fork this repository, but it does not make sense to do it;
+* If you want to report your activity as an instructor clone and push;
+
+
 # Activity
 
 Below we add major events and changes in our ways of doing things.
@@ -17,8 +24,6 @@ Below we add major events and changes in our ways of doing things.
 
 * Every instructor should create one activity report file/year. 
 * We have create this main [activity report](reports/readme.md), check it out;
-
-
 
 ---
 Copyright (c) Sage-Code 2022
