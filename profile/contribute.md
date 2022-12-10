@@ -1,18 +1,24 @@
-# Contribution
+# Contribution Role
 
-You can contribute to our content if you are part of our team or not, but is more easy to work with us if you are part of our team. Anybody can fork our repository. Instructors, developers and students have direct access to several repositories. Direct commit in repository is enabled depending on your role.
+You can contribute to our content if you are part of our team or not, but is more easy to work with us if you are part of our team. Anybody can fork our repository. Memvers cab be: Instructors, Developers or Students. Having one of these roles you can have direct access. Wehn you have direct access you can work in developement branches and commit to main branch or work directly in the main branch.
 
-## Guests
+**Gusts**
 
-As a guest you can visit our homepage and start learning for free. You do not have to register or login to our website to do it. Any visitor who enjoy Sage-Code content can join our Discord server for suport and mentoring. After you join you become one of us. We give you a role and you can have access to contribute to our projects.
+As a guest you can visit our homepage and start learning how to code. You do not have to register or login. We host two courses: Software Engineering and Programming Languages. You can learn principles of programming from zero to hero in shorter time than school. Our courses are focussed on basic knowledge. For advanced programming you can follow documentation. There is no schedule, you can start learning any time and pause or continue in your own free time. We do not track your progress.
 
-## Teams
+**Community**
 
-On Discord you can claim a particular role to become member of Sage-Code team. We do not have any registry database and we do not collect e-mail addresses nor phone numbers. You can ask for a role on chat room. If you are approved you will receive an invitation for GitHub and you can accept this invitation to work with us. You will next be assigned to work items.
+You can join our community on Discord, Google, Reddit. After you join, you can claim a new role on chat room. We do not have any registry or database and we do not collect e-mail addresses nor phone numbers. After you get a role you will receive an invitation for GitHub in your e-mail. You can accept this invitation to become member in our team and get access to projects.
+
+**Invitations**
+
+* [Sage-Code Discord](https://discord.gg/fAEHfw8T)
+* [Sage-Code Group](https://groups.google.com/g/sagecode)
+* [Sage-Code Reddit](https://www.reddit.com/r/sagecode/)
 
 ## Students
 
-As a student, you can have access to extra resources, not available for random guests. This include secret links and voice rooms where we share presentations and schedule work sessions. Students can make PR requests for any of our projects. We grant direct access to specific training projects so you don't need to fork some of the projects.
+As a student, you can have access to extra resources, not available for guests. This include secret links and voice rooms where we share presentations and schedule work sessions. Students can make PR requests for any of our projects. We grant direct access to specific training projects so you don't need to fork some of the projects.
 
 ## Developers
 
@@ -24,11 +30,22 @@ Sage-Code instructors are professional developers with experience that we can tr
 
 # Work environment
 
-
-## Forking
-
 You can fork any of our repositories. We do not accept PR requests from random visitors that we don't know. You must connect with an Instructor or Developer who can merge PR requests. We advice you to avoid extra work. As a guest you can clone our repositories instead of forking. Later if you get a role you will be able to work in branches and commit. We will merge the branches into main or you can do it yourself.
 
+## Structure
+
+```
+~/sagecode
+    |
+    +-->root
+    |
+    +-->images
+    |
+    +-->seng
+    |
+    | ...
+    (other projects)
+```
 Our website is distributed in many repositories. The main repository is the /root repository. When you start your contribution you must fork or clone at least two: /root and /immages repositories into the working folder: ~/sagecode or directly in your home folder ~/ You must copy all files from /root into the working folder. This is just for testing. Use script ~/sagecode/root/publush.sh to copy the files into parent folder.
 
 ## Project
@@ -46,9 +63,8 @@ You can ask questions on Sage-Code general [discutions](https://github.com/orgs/
 **Follow up:**
 
 1. Visit: [Sage-Code Laboratory](https://sagecode.net)
-2. Join us: [Sage-Code Discord](https://discord.gg/fAEHfw8T)
-3. Clone: [Images repo](https://github.com/sage-code/images)
-4. Clone: [Root repo](https://github.com/sage-code/root)
+2. Clone: [Images repo](https://github.com/sage-code/images)
+3. Clone: [Root repo](https://github.com/sage-code/root)
 
 After these steps you are ready to contribute. Publish ~/sagecode/root using ./publish.sh command. Then you can open the website locally ofline. Clone your favorite programming languages or projects. This is a great resource to learn and contribute without internet connection. Start editing then verify locally and commit later. Please commit every day at least once if you modify anything. From time to time, update your clone especially before starting to edit to avoid possible future conflicts.
 
