@@ -46,11 +46,11 @@ You can fork any of our repositories. We do not accept PR requests from random v
     | ...
     (other projects)
 ```
-Our website is distributed in many repositories. The main repository is the /root repository. When you start your contribution you must fork or clone at least two: /root and /immages repositories into the working folder: ~/sagecode or directly in your home folder ~/ You must copy all files from /root into the working folder. This is just for testing. Use script ~/sagecode/root/publush.sh to copy the files into parent folder.
+Our website is distributed in many repositories. The main repository is the /root repository. When you start your contribution you must fork or clone at least two: *root* and *images* repositories into the working folder: ~/sagecode or directly in your home folder ~/. You must copy all files from ~/sagecode/root into the working folder that is ~/ or ~/sagecode/. This is for testing and ofline browsing. Use script ~/sagecode/root/publush.sh to copy the files into parent folder.
 
 ## Project
 
-Usually a developer work on a single tutorial. Therefore you can clone the specific tutorial in the working folder, for example ~/sagecode/java. If you have installed immages properly, you can open ~/java/index.html in local browser without installing any special software. We use relative links to find the immages and the style files that should be located in ~/sagecode/ (work folder) and  ~/sagecode/images/.
+Usually a developer work on a single tutorial. Therefore you can clone the specific tutorial in the working folder. For example ~/sagecode/java is containing the Java tutorial. If you have installed immages properly, you can open ~/java/index.html in local browser without installing any special software. We use relative links to find the immages and the style files that should be located in ~/sagecode/ (work folder) and  ~/sagecode/images/.
 
 ## Publshing 
 
