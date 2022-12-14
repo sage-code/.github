@@ -8,7 +8,7 @@ Sage-Code is a community like no other. We host open source tutorials for softwa
 
 ## Sponsors ❤️
 
-We grant higer priority to issues created by sponsors. You can any project that have soinsor button active. If you become a sponsor we list your name in our sponsor list in order of contribution. Below we list our current sponsors. Thank you for your generosity 🤗 
+We grant higer priority to issues created by sponsors. You can sponsor any project that have spoinsorsheep button active. If you become a sponsor we list your name in our sponsor list in order of contribution. Below we list our current sponsors. Thank you for your generosity 🤗 
 
 * [@sage-code/mlmoise](https://github.com/mlmoise)
 
