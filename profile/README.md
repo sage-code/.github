@@ -8,7 +8,7 @@ Sage-Code is a community like no other. We host open source tutorials for softwa
 
 ## Sponsors ❤️
 
-You can sponsor one or more projects. If you become a sponsor we list your name below. We grant higer priority to issues created by you. On Discord, you receive a special role and you get access to exclusive channels. Sponsors can participate in planing meetings for stearing the research & developement activity.
+You can sponsor one or more projects. If you become a sponsor we list your name below. Also we grant higer priority to issues created by you. On Discord, you receive the sponsor role and you get access to exclusive channels. Sponsors can participate in planing meetings and have access to exclusive channels for research & developement.
 
 * [@sage-code/mlmoise](https://github.com/mlmoise)
 
