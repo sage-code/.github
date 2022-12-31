@@ -11,19 +11,9 @@ Use these references to contribute to our activity.
 
 # Forking
 
-* In general Sage-Code related work and reporting do not require forking;
-* You can fork this repository, but it does not make sense to do it;
-* If you want to report your activity as an instructor clone and push;
-
-
-# Activity
-
-Below we add major events and changes in our ways of doing things.
-
-**20-OCT-2022**
-
-* Every instructor should create one activity report file/year. 
-* We have create this main [activity report](reports/readme.md), check it out;
+* Sage-Code related work and reporting do not require forking;
+* Our members have direct access to clone every repository;
+* This repository is maintained by Sage-Code instructors;
 
 ---
 Copyright (c) Sage-Code 2022
