@@ -5,7 +5,7 @@
 
 ## 2023 Reports
 
-* [@elucian](https://github.com/elucian) 2023 activity report: [readme.md](./elucian/2023.MD)
+* [@elucian](https://github.com/elucian) 2023 activity report: [readme.md](./elucian/2023.md)
 
 ## 2022 Reports
 
