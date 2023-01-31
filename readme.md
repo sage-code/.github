@@ -11,9 +11,12 @@ Use these references to contribute to our activity.
 
 # Forking
 
-* Sage-Code related work and reporting do not require forking;
-* Our members have direct access to clone every repository;
-* This repository is maintained by Sage-Code instructors;
+
+* The .github repository require forking and PRs;
+* Instructors are code maintainers for /root and /team;
+* Developers are code maintainers for all other projects;
+* Students have read-only access to all projects;
+
 
 ---
 Copyright (c) Sage-Code 2022
