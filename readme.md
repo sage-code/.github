@@ -1,6 +1,6 @@
 # .github
 
-This repository is hosting the general discussion board for Sage-Code, contribution and maintenance news. We use this repository internaly and do not host software of any kind here. In this repository we store activity reports.
+This repository is hosting the general discussion board for Sage-Code, contribution and maintenance activity reports.
 
 # References
 
