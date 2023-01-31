@@ -1,6 +1,6 @@
 # Contribution Role
 
-You can contribute to our content if you are part of our team or not, but is more easy to work with us if you are part of our team. Anybody can fork our repository. Memvers cab be: Instructors, Developers or Students. Having one of these roles you can have direct access. Wehn you have direct access you can work in developement branches and commit to main branch or work directly in the main branch.
+You can contribute to our content if you are part of our team or not, but is more easy to work with us if you are part of our team. Anybody can fork our repository. Members can be: Instructors, Developers or Students. Having one of these roles you can have direct access. When you have direct access you can work in development branches and commit to main branch or work directly in the main branch.
 
 **Gusts**
 
@@ -46,7 +46,7 @@ You can fork any of our repositories. We do not accept PR requests from random v
     | ...
     (other projects)
 ```
-Our website is distributed in many repositories. The main repository is the /root repository. When you start your contribution you must fork or clone at least two: *root* and *images* repositories into the working folder: ~/sagecode or directly in your home folder ~/. You must copy all files from ~/sagecode/root into the working folder that is ~/ or ~/sagecode/. This is for testing and ofline browsing. Use script ~/sagecode/root/publush.sh to copy the files into parent folder.
+Our website is distributed in many repositories. The main repository is the /root repository. When you start your contribution you must fork or clone at least two: *root* and *images* repositories into the working folder: ~/sagecode or directly in your home folder ~/. You must copy all files from ~/sagecode/root into the working folder that is ~/ or ~/sagecode/. This is for testing and offline browsing. Use script ~/sagecode/root/publush.sh to copy the files into parent folder.
 
 ## Project
 
@@ -54,11 +54,11 @@ Usually a developer work on a single tutorial. Therefore you can clone the speci
 
 ## Publshing 
 
-After you make any modification in ~/sagecode/root folder, you need to run ./publish.sh to copy over the new files in the work folder ~/sagecode/ so you can see locally the new version. After you verify to look good in the browser you can commit the root repository. In the future we will have automation scripts that will publush your modification to our website. At this time we do manual work to publish all modifications to the website.
+After you make any modification in ~/sagecode/root folder, you need to run ./publish.sh to copy over the new files in the work folder ~/sagecode/ so you can see locally the new version. After you verify to look good in the browser you can commit the root repository. In the future we will have automation scripts that will publish your modification to our website. At this time we do manual work to publish all modifications to the website.
 
 ## Get started
 
-You can ask questions on Sage-Code general [discutions](https://github.com/orgs/sage-code/discussions) board. Every repository has also a discution board and a read.me file that contains info about that particular project. Follow this info and update new info when you have it.
+You can ask questions on Sage-Code general [discussions](https://github.com/orgs/sage-code/discussions) board. Every repository has also a discussion board and a read.me file that contains info about that particular project. Follow this info and update new info when you have it.
 
 **Follow up:**
 
@@ -66,11 +66,11 @@ You can ask questions on Sage-Code general [discutions](https://github.com/orgs/
 2. Clone: [Images repo](https://github.com/sage-code/images)
 3. Clone: [Root repo](https://github.com/sage-code/root)
 
-After these steps you are ready to contribute. Publish ~/sagecode/root using ./publish.sh command. Then you can open the website locally ofline. Clone your favorite programming languages or projects. This is a great resource to learn and contribute without internet connection. Start editing then verify locally and commit later. Please commit every day at least once if you modify anything. From time to time, update your clone especially before starting to edit to avoid possible future conflicts.
+After these steps you are ready to contribute. Publish ~/sagecode/root using ./publish.sh command. Then you can open the website locally offline. Clone your favorite programming languages or projects. This is a great resource to learn and contribute without internet connection. Start editing then verify locally and commit later. Please commit every day at least once if you modify anything. From time to time, update your clone especially before starting to edit to avoid possible future conflicts.
 
 Learn and prosper 🖖🏼
 
 ----
-Copiright (c) Sage-Code 2022
+Copyright (c) Sage-Code 2023
 
 
