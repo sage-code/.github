@@ -1,6 +1,6 @@
 # .github
 
-This repository is hosting the general discussion board for Sage-Code, contribution and maintenance activity reports.
+This repository is hosting the general discussion board for Sage-Code.
 
 # References
 
@@ -11,11 +11,9 @@ Use these references to contribute to our activity.
 
 # Forking
 
-
-* The .github repository require forking and PRs;
-* Instructors are code maintainers for /root and /team;
-* Developers are code maintainers for all other projects;
-* Students have read-only access to all projects;
+* There is no need to fork .github repository;
+* Developers have direct access to projects;
+* Students have read-only access to projects;
 
 
 ---
