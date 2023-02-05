@@ -4,7 +4,7 @@ Sage-Code is a community like no other. We host open source tutorials for softwa
 
 ## Contribute 🎁
 
-You can join our community and contribute to our projects. You must be invited to participate. If you read our home-page you will larn about our projects. You can follow our training program. When you are ready you can claim a role and we grant you acces to our projects.
+You can join our community and contribute to our projects. You must be invited to participate. If you read our home-page you will larn about our projects, then you can follow our training program. When you are ready you can claim a role and we will grant you acces to our code.
 
 * [Sage-Code Laboratory](http://sagecode.net)
 * [How to Contribute](https://github.com/sage-code/.github/tree/main/profile/contribute.md)
