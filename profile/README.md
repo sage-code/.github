@@ -12,7 +12,7 @@ You can join our community and contribute to our projects, but we are not lookin
 
 ## Sponsors ❤️
 
-You can sponsor one or more projects. If you become a sponsor we list your name below and we give you a role. We grant higer priority to issues created by sponsors. On Discord, you get access to exclusive content available onlu for sponsors. Sponsors can participate in planing meetings and have access to exclusive channels for research & developement.
+You can sponsor one or more projects. If you become a sponsor we list your name below and we give you a role. We grant higher priority to issues created by sponsors. On Discord, you get access to exclusive content available onlu for sponsors. Sponsors can participate in planing meetings and have access to exclusive channels for research & developement.
 
 * [@sage-code/mlmoise](https://github.com/mlmoise)
 
