@@ -76,10 +76,10 @@ You can ask questions on Sage-Code general [discussions](https://github.com/orgs
 **Follow up:**
 
 1. Visit: [Sage-Code Laboratory](https://sagecode.net)
-2. Clone: [Images repo](https://github.com/sage-code/images)
-3. Clone: [Root repo](https://github.com/sage-code/root)
+2. Read the [Project page](https://sagecode.net/projects.html)
+3. Clone: [WWW repo](https://github.com/sage-code/www)
 
-After these steps you are ready to contribute. Publish ~/sagecode/root using ./publish.sh command. Then you can open the website locally offline. Clone your favorite programming languages or projects. This is a great resource to learn and contribute without internet connection. Start editing then verify locally and commit later. Please commit every day at least once if you modify anything. From time to time, update your clone especially before starting to edit to avoid possible future conflicts.
+After these steps you are ready to contribute. You can open the website locally offline. You can't modify any of the files because you have not created a fork. If you are a Developer, join our Discord server and ask permision to push changes. We will have a short interview and if you are qualified we will grant you GitHub developer role. With this role you can contribute directly in the main branch.
 
 Learn and prosper 🖖🏼
 
