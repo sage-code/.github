@@ -38,17 +38,36 @@ You can fork any of our repositories. We do not accept PR requests from random v
 ~/sagecode
     |
     |
-    +-->images
+    +-->&images
     |
-    +-->project
-    | ...
+    +-->eve
+    |
+    +-->bee
+    |
+    +-->www
+    |    +-->images
+    |    ...
+    +-->tor
+    |...
     (root files)
 ```
-Our website is distributed in many repositories. The main repository is the /www repository. When you start your contribution you must fork or clone www first into a working folder: ~/sage or directly in your home folder ~/www. This repository contains index.html /image folder and many other folders, one for each programming language.
+
+Our website is distributed in many repositories. The main repository is the /www repository. This contains www/images folder and one folder for every language that we teach.  Before you can start your contribution you must fork or clone /www into a working folder named: ~/sage or ~/sagecode. This repository contains index.html, software engineering course and programming course. Folder www/image contains common images, reused for many languages. Some of these images can be used by other projects.
 
 ## Projects
 
-Usually a developer work on a single project. You can clone our projects in the same working folder. For example ~/sage/eve contains a new language that we work on. Projects are stored in different folders. Usually you do not even need /www project if you do not contribute to a tutorial. You can work only on projects.
+Usually a developer work on a single project. You can clone our projects in the same working folder. For example ~/sage/eve/. After you clone a project, the style and some of the pictures are not accesible so the page will not look good in local browser. Therefore you need to run from ~/sage/www the file export.sh using commands: 
+
+```
+%/> cd ~/sage/www
+~/sage/www/bash export.sh
+```
+
+This script will make a soft link to /www/images folder and will copy the root files in the ~/sage work folder. With this, you can now view the entire website including the projects correctly. I keep the projects outside of the /www repository but I publish them together on the website so the website. That is not your concern as a contributor. Is my job to publish and refresh the website.
+
+## Your Rolet
+
+You can claim a role on Discord. Having a developer role on Discord is the first condition to work on our projects. Second you need a role on GitHub. If you are not invited to our organization you can't contribute to our projects directly, but you can clone the project anyhow. What you can't do is modify the project and push changes. For this you need a fork, then create a clone of the fork and push changes in your own repository. If you do so, you can make later a PR. A mentor can review your code and accept the changes. So you can contribute even if you are not a Sage-Code member after all.
 
 ## Get started
 
