@@ -37,24 +37,18 @@ You can fork any of our repositories. We do not accept PR requests from random v
 ```
 ~/sagecode
     |
-    +-->root
     |
     +-->images
     |
-    +-->seng
-    |
+    +-->project
     | ...
-    (other projects)
+    (root files)
 ```
-Our website is distributed in many repositories. The main repository is the /root repository. When you start your contribution you must fork or clone at least two: *root* and *images* repositories into the working folder: ~/sagecode or directly in your home folder ~/. You must copy all files from ~/sagecode/root into the working folder that is ~/ or ~/sagecode/. This is for testing and offline browsing. Use script ~/sagecode/root/publush.sh to copy the files into parent folder.
+Our website is distributed in many repositories. The main repository is the /www repository. When you start your contribution you must fork or clone www first into a working folder: ~/sage or directly in your home folder ~/www. This repository contains index.html /image folder and many other folders, one for each programming language.
 
-## Project
+## Projects
 
-Usually a developer work on a single tutorial. Therefore you can clone the specific tutorial in the working folder. For example ~/sagecode/java is containing the Java tutorial. If you have installed immages properly, you can open ~/java/index.html in local browser without installing any special software. We use relative links to find the immages and the style files that should be located in ~/sagecode/ (work folder) and  ~/sagecode/images/.
-
-## Publshing 
-
-After you make any modification in ~/sagecode/root folder, you need to run ./publish.sh to copy over the new files in the work folder ~/sagecode/ so you can see locally the new version. After you verify to look good in the browser you can commit the root repository. In the future we will have automation scripts that will publish your modification to our website. At this time we do manual work to publish all modifications to the website.
+Usually a developer work on a single project. You can clone our projects in the same working folder. For example ~/sage/eve contains a new language that we work on. Projects are stored in different folders. Usually you do not even need /www project if you do not contribute to a tutorial. You can work only on projects.
 
 ## Get started
 
