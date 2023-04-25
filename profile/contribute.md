@@ -1,4 +1,4 @@
-# Contribution Role
+# Contribution
 
 You can contribute to our content if you are part of our team or not, but is more easy to work with us if you are part of our team. Anybody can fork our repository. Members can be: Instructors, Developers or Students. Having one of these roles you can have direct access. When you have direct access you can work in development branches and commit to main branch or work directly in the main branch.
 
