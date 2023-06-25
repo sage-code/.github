@@ -9,3 +9,5 @@ You must be invited by a mentor to participate to our projects. If you read our 
 * [Sage-Code Laboratory](http://sagecode.net)
 * [How to Contribute](https://github.com/sage-code/.github/tree/main/profile/contribute.md)
 * [Activity Reports](https://github.com/sage-code/.github/tree/main/reports/readme.md)
+---
+Thank you for visiting.
