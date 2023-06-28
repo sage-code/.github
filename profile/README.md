@@ -1,6 +1,6 @@
 ## Welcome 👋
 
-Sage-Code is an independent freelance organization. Our purpose is to learn elite programming the right way. We browse the internet, documentation and we use artifficial intelligence (AI) to create comprehensive free content for learning the best programming languages.
+Sage-Code is an independent freelancing software house. Our purpose is to learn elite programming and create SaaS services for customers. We browse the internet, documentation and we use artifficial intelligence (AI) to create comprehensive free content for learning the best programming languages and tech staks.
 
 ## Contribute 🎁
 
