@@ -1,12 +1,12 @@
 ## Welcome 👋
 
-Sage-Code is an independent freelancing software house. Our purpose is to learn elite programming and create SaaS services for customers. We browse the internet, documentation and we use artifficial intelligence (AI) to create comprehensive free content for learning the best programming languages and tech staks.
+Sage-Code is an independent software house. Our purpose is to create SaaS services for customers. We use AI to create comprehensive high quality courses and code snippets for teaching elite programming. After training you can join our team and work as a volunteer.
 
 ## Contribute 🎁
 
-You must be invited by a mentor to participate to our projects. If you read our home-page you will larn more. Anyone can follow our training program. When you are ready to contribute you can claim the developer role and we will grant you acces to our codebase.
+You must be invited by Sage-Code admin to participate. Anyone can follow our training program for a sall donation. When you are ready to contribute back you can claim the developer role on Discord and we will grant you acces to our private codebase.
 
-* [Sage-Code Laboratory](http://sagecode.net)
+* [Sage-Code Home](http://sagecode.net)
 * [How to Contribute](https://github.com/sage-code/.github/tree/main/profile/contribute.md)
 * [Activity Reports](https://github.com/sage-code/.github/tree/main/reports/readme.md)
 ---
