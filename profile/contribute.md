@@ -1,14 +1,14 @@
 # Contribution
 
-You can contribute to our content if you are part of our team or not, but is more easy to work with us if you are part of our team. Anybody can fork our repository. Members can be: Instructors, Developers or Students. Having one of these roles you can have direct access. When you have direct access you can work in development branches and commit to main branch or work directly in the main branch.
+Anybody can fork our open source repositories, but we have also private repositories that are accessible only to our core team members. A core tem members can be: Mentor, Developer or Student. Having one of these roles you can have direct access to private repositories. When you have direct access you can work in development branches and commit to main branch and you can accept PR for open source contributors.
 
 **Guests**
 
-As a guest you can visit our homepage and start learning how to code. You do not have to register or login. We host two courses: Software Engineering and Programming Languages. You can learn principles of programming from zero to hero in shorter time than school. Our courses are focussed on basic knowledge. For advanced programming you can follow documentation. There is no schedule, you can start learning any time and pause or continue in your own free time. We do not track your progress.
+As a guest or prosspector you can visit our homepage and start learning how to code. You do not have to register or login. We host two courses: Software Engineering and Programming Languages. You can learn principles of programming from zero to hero in shorter time than school. Our courses are focussed on fundamentals and theory. For advanced programming you can follow documentation and work on projects. There is no schedule for courses, you can start learning any time and pause or continue in your own free time. We do not track your progress.
 
 **Community**
 
-You can join our community on Discord, Google, Reddit. After you join, you can claim a new role on chat room. We do not have any registry or database and we do not collect e-mail addresses nor phone numbers. After you get a role you will receive an invitation for GitHub in your e-mail. You can accept this invitation to become member in our team and get access to projects.
+You can join our community on Discord, Google, Reddit or Twitter. After you join, you can claim a new role on chat room. We do not have any registry or database and we do not collect e-mail addresses nor phone numbers. After you get a role you will receive an invitation for GitHub in your e-mail. You can accept this invitation to become member in our team and get access to projects.
 
 **Invitations**
 
@@ -18,15 +18,15 @@ You can join our community on Discord, Google, Reddit. After you join, you can c
 
 ## Students
 
-As a student, you can have access to extra resources, not available for guests. This include secret links and voice rooms where we share presentations and schedule work sessions. Students can make PR requests for any of our projects. We grant direct access to specific training projects so you don't need to fork some of the projects.
+As a student, you can have access to extra resources, not available for guests. This include secret links and stage rooms where we share presentations and schedule work sessions. Students can make PR requests for open source projects. We grant direct access to these projects so you don't need to fork.
 
 ## Developers
 
-To become a developer on Sage-Code you must be active on Discord. Post some info about your goals and skills on our #team channel and read the rules. An instructor will send you DM for an interview and will assign you the role. Developers have direct access to all our projects and can work in developer branches.
+To become a developer on Sage-Code you must be active on Discord. Post some info about your goals and skills on our #team channel and read the rules. An mentor will send you DM for an interview and will assign you the role. Developers have direct access to some of our private projects and can work in developer branches.
 
-## Instructors
+## Mentor
 
-Sage-Code instructors are professional developers with experience that we can trust. Instructors are moderators and code maintainers. As an instructor you can accept PR from students and you can merge code into main branch. To become an instructor you need to pass several exams and prove your skills. Instructors are our partners and have access to private Sage-Code projects.
+Sage-Code mentors are professional developers with experience that we can trust. Instructors are moderators and code maintainers. As an instructor you can accept PR from students and you can merge code into main branch. To become an mentor you need to pass several exams and prove your skills. Mentors are our partners, and they have access to all private projects. Mentors can create testimonial pages for other develipers or students.
 
 # Work environment
 
@@ -37,33 +37,26 @@ You can fork any of our repositories. We do not accept PR requests from random v
 ```
 ~/sagecode
     |
+    +-->cse
     |
-    +-->&images
+    +-->csp
     |
-    +-->eve
-    |
-    +-->bee
-    |
-    +-->www
+    +-->vip
+    | (other projects)
+    | ....
+    +-->www (root)
     |    +-->images
-    |    ...
-    +-->tor
-    |...
-    (root files)
+    |    index.html
+    |    sage.css
+    |    projects.html
+    |    services.html
 ```
 
-Our website is distributed in many repositories. The main repository is the /www repository. This contains www/images folder and one folder for every language that we teach.  Before you can start your contribution you must fork or clone /www into a working folder named: ~/sage or ~/sagecode. This repository contains index.html, software engineering course and programming course. Folder www/image contains common images, reused for many languages. Some of these images can be used by other projects.
+Our website is distributed in many repositories. The main repository is the /www repository. This contains www/images folder and the root files. When you work on a project you can clone a specific repository. We use absolute path for some images and for style. Only mentors can close /www repository nobody else.
 
 ## Projects
 
-Usually a developer work on a single project. You can clone our projects in the same working folder. For example ~/sage/eve/. After you clone a project, the style and some of the pictures are not accesible so the page will not look good in local browser. Therefore you need to run from ~/sage/www the file export.sh using commands: 
-
-```
-%/> cd ~/sage/www
-~/sage/www/bash export.sh
-```
-
-This script will make a soft link to /www/images folder and will copy the root files in the ~/sage work folder. With this, you can now view the entire website including the projects correctly. I keep the projects outside of the /www repository but I publish them together on the website so the website. That is not your concern as a contributor. Is my job to publish and refresh the website.
+Usually a developer work on a single project. You can clone our projects in the same working folder. For example ~/sage/eve/ or ~/sage/csp. After you clone a project, you can modify and test your work locally. The website should look good on your laptop. After you merge the code into a project your job is to send notification to one of the mentors for code review. Every project has a readme.md file you need to read to get familiar with the project setup.
 
 ## Your Rolet
 
@@ -77,7 +70,6 @@ You can ask questions on Sage-Code general [discussions](https://github.com/orgs
 
 1. Visit: [Sage-Code Laboratory](https://sagecode.net)
 2. Read the [Project page](https://sagecode.net/projects.html)
-3. Clone: [WWW repo](https://github.com/sage-code/www)
 
 After these steps you are ready to contribute. You can open the website locally offline. You can't modify any of the files because you have not created a fork. If you are a Developer, join our Discord server and ask permision to push changes. We will have a short interview and if you are qualified we will grant you GitHub developer role. With this role you can contribute directly in the main branch.
 
