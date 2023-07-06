@@ -4,7 +4,7 @@ Sage-Code is an independent freelance organization. Our purpose is to create Saa
 
 ## Contribute 🎁
 
-Anyone can follow our training program for a small donation. When you are ready to contribute to our code you can claim the developer role on Discord and we will grant you acces to our private codebase. You must be invited by Sage-Code admin to participate. Everything is on Discord, we have DM chat before you can be accepted in our core team. Our interview is relaxed and friendly. 
+Anyone can follow our training program for a small donation. When you are ready to contribute to our code you can claim the developer role on Discord and we will grant you acces to our private codebase. You must be invited by Sage-Code admin to participate. Everything is on Discord, we have DM chat before you can be accepted in our core team. Our interview is short  and friendly. 
 
 * [Sage-Code Home](http://sagecode.net)
 * [How to Contribute](https://github.com/sage-code/.github/tree/main/profile/contribute.md)
