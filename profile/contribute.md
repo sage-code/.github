@@ -1,14 +1,14 @@
 # Contribution
 
-Anybody can fork our open source repositories, but we have also private repositories that are accessible only to our core team members. A core tem members can be: Mentor, Developer or Student. Having one of these roles you can have direct access to private repositories. When you have direct access you can work in development branches and commit to main branch and you can accept PR for open source contributors.
+Anybody can fork our open source repositories and contribute, but we have also private repositories that are accessible only to our core team members. A core tem member have direct access to private repositories. When you have direct access you can work in development branches and commit to main branch. Our mentors are also code maintainers.
 
 **Guests**
 
-As a guest or prosspector you can visit our homepage and start learning how to code. You do not have to register or login. We host two courses: Software Engineering and Programming Languages. You can learn principles of programming from zero to hero in shorter time than school. Our courses are focussed on fundamentals and theory. For advanced programming you can follow documentation and work on projects. There is no schedule for courses, you can start learning any time and pause or continue in your own free time. We do not track your progress.
+As a guest/student or developer you can visit our homepage and start learning how to code. You do not have to register or login. We host two courses: Software Engineering and Programming Languages. You can learn principles of programming from zero to hero in shorter time than school. Our courses are focussed on fundamentals. For advanced programming you can follow documentation and work on projects. There is no schedule for courses, you can start learning any time and pause or continue in your own time.
 
 **Community**
 
-You can join our community on Discord, Google, Reddit or Twitter. After you join, you can claim a new role on chat room. We do not have any registry or database and we do not collect e-mail addresses nor phone numbers. After you get a role you will receive an invitation for GitHub in your e-mail. You can accept this invitation to become member in our team and get access to projects.
+You can join our community on Discord, Google, Reddit or Twitter. After you join, you can claim a new role on Discord chat room. We do not have any registry or database and we do not collect e-mail addresses nor phone numbers. After you get a role you will receive an invitation for GitHub in your e-mail. You can accept this invitation to become member in our core team and get access to projects.
 
 **Invitations**
 
@@ -18,19 +18,19 @@ You can join our community on Discord, Google, Reddit or Twitter. After you join
 
 ## Students
 
-As a student, you can have access to extra resources, not available for guests. This include secret links and stage rooms where we share presentations and schedule work sessions. Students can make PR requests for open source projects. We grant direct access to these projects so you don't need to fork.
+As a student, you can have access to extra resources, not available for guests. This include secret links and stage rooms where we share presentations and schedule work sessions. Students can make PR requests for open source projects.
 
 ## Developers
 
-To become a developer on Sage-Code you must be active on Discord. Post some info about your goals and skills on our #team channel and read the rules. An mentor will send you DM for an interview and will assign you the role. Developers have direct access to some of our private projects and can work in developer branches.
+To become a developer on Sage-Code you must be active on Discord. Post some info about your goals and skills on our #team channel and read the rules. A mentor will send you DM for an interview and will assign you the role. Developers have direct access to some of our private projects and can work in developer branches.
 
 ## Mentor
 
-Sage-Code mentors are professional developers with experience that we can trust. Instructors are moderators and code maintainers. As an instructor you can accept PR from students and you can merge code into main branch. To become an mentor you need to pass several exams and prove your skills. Mentors are our partners, and they have access to all private projects. Mentors can create testimonial pages for other develipers or students.
+Sage-Code mentors are professional developers with experience that we can trust. Instructors are moderators and code maintainers. As a mentor you can accept PR from students and you can merge code into main branch. To become an mentor you need to pass several exams and prove your skills. Mentors are our partners, and they have access to all private projects.
 
 # Work environment
 
-You can fork any of our repositories. We do not accept PR requests from random visitors that we don't know. You must connect with an Instructor or Developer who can merge PR requests. We advice you to avoid extra work. As a guest you can clone our repositories instead of forking. Later if you get a role you will be able to work in branches and commit. We will merge the branches into main or you can do it yourself.
+You can fork any of our repositories. We do not accept PR requests from random visitors that we don't know. You must connect with a Mentor or Developer who can merge PR requests. We advice you to avoid extra work. As a mentor you can clone our repositories instead of forking. You will be able to work in branches and direct commit. We will merge the branches into main branch from time to time, or you can do it yourself.
 
 ## Structure
 
