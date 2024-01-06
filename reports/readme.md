@@ -6,8 +6,8 @@
  [@elucian](https://github.com/elucian) 
 
 * 2024 activity report: [readme.md](./elucian/2024.md) 
-* [@elucian](https://github.com/elucian) 2023 activity report: [readme.md](./elucian/2023.md)
-* [@elucian](https://github.com/elucian) 2022 activity report: [readme.md](./elucian/2022.MD)
+* 2023 activity report: [readme.md](./elucian/2023.md)
+* 2022 activity report: [readme.md](./elucian/2022.MD)
 
 ---
 
