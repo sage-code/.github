@@ -39,8 +39,6 @@ You can fork any of our repositories. We do not accept PR requests from random v
     |
     +-->cse
     |
-    +-->csp
-    |
     +-->vip
     | (other projects)
     | ....
@@ -68,8 +66,8 @@ You can ask questions on Sage-Code general [discussions](https://github.com/orgs
 
 **Follow up:**
 
-1. Visit: [Sage-Code Laboratory](https://sagecode.net)
-2. Read the [Project page](https://sagecode.net/projects.html)
+1. Visit: [Sage-Code Laboratory](https://sagecode.pro)
+2. Read the [Project page](https://sagecode.pro/projects.html)
 
 After these steps you are ready to contribute. You can open the website locally offline. You can't modify any of the files because you have not created a fork. If you are a Developer, join our Discord server and ask permision to push changes. We will have a short interview and if you are qualified we will grant you GitHub developer role. With this role you can contribute directly in the main branch.
 
