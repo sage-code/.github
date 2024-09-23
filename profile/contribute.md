@@ -42,23 +42,26 @@ You can fork any of our repositories. We do not accept PR requests from random v
     +-->vip
     | (other projects)
     | ....
-    +-->www (root)
-    |    +-->images
-    |    index.html
-    |    sage.css
-    |    projects.html
-    |    services.html
+    +--.github
+    |    (readme)
+    |    (discutions)
 ```
 
-Our website is distributed in many repositories. The main repository is the /www repository. This contains www/images folder and the root files. When you work on a project you can clone a specific repository. We use absolute path for some images and for style. Only mentors can close /www repository nobody else.
+Our website is distributed in many repositories. The main repository is the .github repository. This contains discutions and main readme file. You do not need to clone .github. When you work on a project you can clone a specific repository.
+
+Our tutoriasl are stored in /cse repository. This contains a subfolder for every language we study. Also in the root of this repository there are engineering articles. Some articles are expanded in subfolders. If you expand one of the topics beyoun one page, you should create a subfolder.
+
+The /cse/images folder contains common immages. If a project need special immages, each folder contains an ./img subfolder. This structure enable us to differentiate diagrams between languages. If a common diagram need modifications for specific language then you should create a copy of it and modify in in ./img folder. Let the original unchanged. If a diagram need to be fixed for all languages, then modifi only the original. Every copy is independent, will not automaticly inherit your changes.
 
 ## Projects
 
-Usually a developer work on a single project. You can clone our projects in the same working folder. For example ~/sage/eve/ or ~/sage/csp. After you clone a project, you can modify and test your work locally. The website should look good on your laptop. After you merge the code into a project your job is to send notification to one of the mentors for code review. Every project has a readme.md file you need to read to get familiar with the project setup.
+We have unified all tutorials in /cse repository that stnds for "computer science and engineering". The ./vip project, has it's own repository. This repository is protected, onlu mentors have access for security reazons. After you clone a project, you can modify and test your work. The website should look good on your computer bedore you push changes. After you merge the code into a project your job is to send notification to one of the mentors for code review. Every project has a readme.md file you need to read to get familiar with the project setup.
 
 ## Your Rolet
 
-You can claim a role on Discord. Having a developer role on Discord is the first condition to work on our projects. Second you need a role on GitHub. If you are not invited to our organization you can't contribute to our projects directly, but you can clone the project anyhow. What you can't do is modify the project and push changes. For this you need a fork, then create a clone of the fork and push changes in your own repository. If you do so, you can make later a PR. A mentor can review your code and accept the changes. So you can contribute even if you are not a Sage-Code member after all.
+You can claim a role on Discord: student, developer, sponsor or recruiter. Having a developer role on Discord is the first condition to work on our projects. Second you need a role on GitHub that must be also developer role. If you are not invited to our organization you can't contribute to our projects directly, but you can clone the project. 
+
+What you can do is modify the project and push changes using pul requests. For this you need a fork, then create a clone of the fork and push changes in your own local repository. If you do so, you can make later a PR (pul request). A mentor can review your code and accept the changes. So you can contribute even if you are not a Sage-Code developer after all.
 
 ## Get started
 
