@@ -6,7 +6,7 @@ Sage-Code is an independent freelance organization. We research programming lang
 
 Anyone can follow our training program for a small donation. If you pass the final exam, you will be ready to contribute to our code. We will grant you the developer role and you will have full access to our private codebase. You must be invited by Sage-Code admin to participate. Read more: 
 
-* [Sage-Code Home](http://sagecode.net)
+* [Sage-Code Home](http://sagecode.pro)
 * [How to Contribute](https://github.com/sage-code/.github/tree/main/profile/contribute.md)
 * [Activity Reports](https://github.com/sage-code/.github/tree/main/reports/readme.md)
 ---
