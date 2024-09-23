@@ -6,7 +6,7 @@ This repository is hosting the general discussion board for Sage-Code.
 
 Use these references to contribute to our activity.
 
-* [discussions](https://github.com/sage-code/bee/discussions)
+* [discussions](https://github.com/orgs/sage-code/discussions)
 * [contribution](profile/contribute.md)
 
 # Forking
@@ -17,5 +17,5 @@ Use these references to contribute to our activity.
 
 
 ---
-Copyright (c) Sage-Code 2022
+Copyright (c) Sage-Code 2024
 
