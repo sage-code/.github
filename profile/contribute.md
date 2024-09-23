@@ -74,6 +74,6 @@ After these steps you are ready to contribute. You can open the website locally 
 Learn and prosper 🖖🏼
 
 ----
-Copyright (c) Sage-Code 2023
+Copyright (c) Sage-Code 2024
 
 
