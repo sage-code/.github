@@ -28,7 +28,7 @@ Clone specific project repositories as needed. Some repositories are not designe
  │   └── [lang]/ # Language-specific subfolders
  ├── eve/        # Project - EVE programming language
  ├── bee/        # Project - Bee programming language
- ├── csr/        * Computer science - open research 
+ ├── csr/        # Computer science - open research 
  └── vip/        # Protected access (Mentors only)
  
 ```
