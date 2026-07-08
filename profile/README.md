@@ -1,6 +1,6 @@
 ## Welcome 👋
 
-Sage-Code is an independent freelance organization. We research programming languages and new technology. We use AI to create comprehensive high quality courses and code snippets for teaching elite programmers. After training you can join our research team and work as a volunteer.
+Sage-Code is an independent open source organization. We research programming languages and new technology. We use AI to create comprehensive high quality courses and code snippets for teaching elite programmers. After training you can join our research team and work as a volunteer.
 
 ## Contribute 🎁
 
