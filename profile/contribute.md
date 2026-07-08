@@ -12,13 +12,13 @@ We operate a tier-based contribution model. We maintain zero central databases; 
 ## 2. The Network
 
 Role assignments and GitHub invitations are managed strictly through our community nodes:
-*   [Discord](https://discord.gg/fAEHfw8T) (Primary operations and role claims)
-*   [Google Group](https://groups.google.com/g/sagecode)
-*   [Reddit](https://www.reddit.com/r/sagecode/)
+*   [Discord](https://discord.gg/fAEHfw8T) - Primary operations, mentoring and role claim
+*   [Reddit](https://www.reddit.com/r/sagecode/) = Secondary operations, public talk, news
+=   [Substack](https://sagecode.substack.com/) - Newsletter, articles, public chat & podcast
 
-## 3. Repository Architecture
+## 3. Repository Structure
 
-Do not clone the `.github` repository unless updating global discussions or the main README. Clone specific project repositories as needed. 
+Clone specific project repositories as needed. Some repositories are not designed for cloning. Before cloning a repository read the instructions. Each repository has a readme.md file. Read the instructions chareful. Watch the activity reports and follow the news channels. Stay informed and talk before you act.
 
 ```text
 ~/sagecode
@@ -26,4 +26,11 @@ Do not clone the `.github` repository unless updating global discussions or the 
  ├── cse/        # Computer Science & Engineering (Core tutorials)
  │   ├── images/ # Global shared images
  │   └── [lang]/ # Language-specific subfolders
+ ├── eve/        # Project - EVE programming language
+ ├── bee/        # Project - Bee programming language
+ ├── csr/        * Computer science - open research 
  └── vip/        # Protected access (Mentors only)
+ 
+```
+
+Learn and prosper.
