@@ -10,4 +10,4 @@ Anyone can follow our training program for free but we encourage a sponsoring/do
 * [How to Contribute](https://github.com/sage-code/.github/tree/main/profile/contribute.md)
 * [Activity Reports](https://github.com/sage-code/.github/tree/main/reports/readme.md)
 ---
-Thank you for visiting.
+Thank you for visiting. Learn and prosper 🖖
