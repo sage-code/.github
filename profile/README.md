@@ -1,6 +1,6 @@
 ## Welcome 👋
 
-Sage-Code is an independent open source organization. We research programming languages and software developement technology. We use AI to create comprehensive high quality roadmaps, presentations, video tutorials and code snippets for learning and teaching. After training you can join our core team as a mentor & volunteer.
+Sage-Code is an independent open source organizaton. We have a [homepage](https://sagecode.org), and a discord server. We research programming languages and software developement. We use AI to create comprehensive high quality roadmaps, presentations, video tutorials and code snippets for learning and teaching. After training you can join our core team as a mentor & volunteer.
 
 ## Contribute 🎁
 
